@@ -2,7 +2,7 @@ import { loadAboutUs } from "./aboutus.js";
 import { loginPage } from "./login.js";
 import { searchPage } from "./search.js";
 
-// Hàm getAPI PodCast
+// Hàm getAPI PodCast https://rapidapi.com/Glavier/api/spotify23/
 
 // Hàm loadSpinner
 
